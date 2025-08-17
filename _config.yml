@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Yanli Research Group / Site Title"
+title                    : "Yanli Research Group / UK"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : Research group focused on the peptide drug development with RiPPs and advanced diagnostics using single-molecule nanopores"
@@ -23,11 +23,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Yanli"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "UK"
+  employer         : "University of Oxford"
   uri              : # URL
   email            : "yanli.xu@chem.ox.ac.uk" 
 
@@ -79,12 +79,26 @@ author:
   zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
-publication_category:
+publication_category:(1)	Xu, Y.; Reuvekamp, R.; Kuipers, O. P. Biosynthesis of Antimicrobial Ornithine-Containing Lacticin 481 Analogues by Use of a Combinatorial Biosynthetic Pathway in Escherichia Coli. ACS Synthetic Biology 2024. 
+(2)	Xu, Y.; Ruijne, F.; Diez, M. G.; Stada, J.; Kuipers, O. P. Design and Production of Geranylated Cyclic NRP-Mimicking Peptides by the RiPP Enzymes SyncM and PirF. 1–26. ACS Biomacromolecules 2025.
+(3)	Xu, Y., & Kuipers, O. P.. Design and Biosynthesis of Ornithine 8-Containing Semaglutide Variants with a Click Chemistry-Modifiable Position 26. ACS Synthetic Biology, 2025,14(5), 1790-1801.
+(4)	Zhao, X.; Xu, Y.; Viel, J. H.; Kuipers, O. P. Semisynthetic Macrocyclic Lipo-Lanthipeptides Display Antimicrobial Activity against Bacterial Pathogens. ACS Synthetic Biology 2021, 10 (8), 1980–1991.
+(5)	Vargiu, M.; Xu, Y.; Kuipers, O. P.; Roelfes, G. Selective Aza-Michael Addition to Dehydrated Amino Acids in Natural Antimicrobial Peptides. ChemBioChem 2024, 25 (7).
+(6)	Xu, Y.; Fu, Y.; Ruijne, F.; Kuipers, O. P. Engineering Lanthipeptides by Introducing a Large Variety of RiPP Modifications to Obtain New-to-Nature Bioactive Peptides. FEMS Microbiology Reviews 2023, 47 (3), 1–22. 
+(7)	Xu, Y. L.; Kong, J. Q. OcUGT1-Catalyzing Glycodiversification of Steroids through Glucosylation and Transglucosylation Actions. Molecules 2020, 25 (3), 1–17.
+(8)	Yuan, S.; Xu, Y. L.; Yang, Y.; Kong, J. Q. OcUGT1-Catalyzed Glucosylation of Sulfuretin Yields Ten Glucosides. Catalysts 2018, 8 (10), 1–9. 
+(9)	Li, F.; Chen, X.; Xu, Y.; Bai, X. Research of Anti-Cancer Components in Traditional Chinese Medicine on Hollow Fibre Cell Fishing and Hollow Fibre Liquid Phase Microextraction. American Journal of Analytical Chemistry 2016, 07 (10), 696–711.
   books:
     title: 'Books'
-  manuscripts:
+  manuscripts:（1) Xu, Y.; Moreno, C. M.; Kuipers, O. P. Identification , Production and Characterization of a Unique Lasso Peptide from Paenibacillus PL91 with a Six-Residue Macrolactam Ring. 1–24. Under revision for ACS Chemical Biology.
+(2)	Xu, Y.; Fürst, M. J. L. J.; Kuipers, O. P. The Tryptophan Prenyltransferase ComQ from Bacillus Subtilis 168 Can Prenylate Daptomycin at Trp1. Under revision for FEBS.
+(3)	Xu, Y.; Kuipers, O. P. A Screening Platform for Modified Antimicrobial Peptide by Combining Surface Display and Co-Culture System. Under revision for ACS Chemical Biology. 
+(4)	Xu, Y.; Fu, Y.; Kuipers, O. P. Enzymatic Incorporation of D Amino Acid and Orn into Tirzepatide in vivo by OspD and OspR. Under revision for Peptides.
+
     title: 'Journal Articles'    
-  conferences:
+  conferences:•	Presented a selected poster at the 7th International Symposium on Antimicrobial Peptides (AMP) 2022, Paris.
+•	Delivered a talk at the Dutch Peptide Symposium 2024, Amsterdam.
+•	Presented three selected posters at the 2nd RiPPs Conference 2024, Seoul.
     title: 'Conference Papers'
 
 # Site Settings
